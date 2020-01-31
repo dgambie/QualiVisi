@@ -1,0 +1,3 @@
+//mv_3/PcbModel/
+//mv-7/PcbModel/
+C:/Users/dgambie/Documents/PROGRAMMATION/PYTHON/QualiVisi/ExempleXML/test
