@@ -1,0 +1,161 @@
+<InspData>
+  <ConfigInfo>
+    <Inspector>MV-7U</Inspector>
+    <DefectPath></DefectPath>
+    <IsSaveOverKill>TRUE</IsSaveOverKill>
+    <UserID>admin</UserID></ConfigInfo>
+  <BoardInfo>
+    <Model>59364-SURF1</Model>
+    <SerialNo>00000179</SerialNo>
+    <RepSerialNo>00000179</RepSerialNo>
+    <BoardSide>1</BoardSide>
+    <BoardCount>22</BoardCount>
+    <ModuleCount>1</ModuleCount>
+    <InspStartTime>20200117;112359</InspStartTime>
+    <IsGood>0</IsGood></BoardInfo>
+  <DefectInfo>
+    <InspStartTime>2020-01-17 11:23:59</InspStartTime>
+    <InspEndTime>2020-01-17 11:24:06</InspEndTime>
+    <OperatorEndTime>2020-01-17 11:24:06</OperatorEndTime>
+    <RepairEndTime>2020-01-17 11:24:06</RepairEndTime>
+    <InspResult>1</InspResult>
+    <BoardSide>1</BoardSide></DefectInfo>
+  <DefectCount>
+    <Mounting>2</Mounting>
+    <Solder>0</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>1</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ICSolder>0</ICSolder></DefectCount>
+  <InspCount>
+    <Part>74</Part>
+    <Frame>23</Frame>
+    <Window>148</Window>
+    <Mounting>74</Mounting>
+    <Solder>0</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>74</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ICSolder>0</ICSolder>
+    <SkipInfo>0</SkipInfo></InspCount>
+  <ModuleResult>
+    <Module ModuleId="0" Result="0" IsSkiped="0">
+    </Module></ModuleResult>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AMTC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>V68</RefId>
+    <FrameId>15</FrameId>
+    <WindowId>0</WindowId>
+    <PartNumber>DSJHS0</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>11</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  1]   :  V       41.9%                    
+[  2]   :  V       28.7%                    
+== Retry ==
+[  1]   :  V       58.3%                    
+[  2]   :  V       50.3%                    
+----------------------------------
+Max score:  58.3%[Acceptance score :   60.0%]
+Offset(X, Y, Angle)    : -9, -7, 0.00
+Micro Unit : -120, -107, 0.00
+</ResultMsg>
+    <PartRect X1="1903" Y1="276" X2="1970" Y2="343" X3="1867" Y3="446" X4="1800" Y4="379"/>
+    <WindowRect X1="1903" Y1="276" X2="1970" Y2="343" X3="1867" Y3="446" X4="1800" Y4="379"/>
+    <FrameRect X1="600880" Y1="88914" X2="633890" Y2="88914" X3="633890" Y3="116561" X4="600880" Y4="116561"/>
+    <DefectRect X1="625679" Y1="110705" X2="626961" Y2="110705" X3="626961" Y3="112689" X4="625679" Y4="112689"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-9" Y="-7"/>
+    <ActualResultMsg>Matching : 58.3% [Acceptance : 60.0%]
+X, Y, theta :
+-120 um, -107 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AINC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>V68</RefId>
+    <FrameId>15</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>DSJHS0</PartNumber>
+    <WindowType>8</WindowType>
+    <DefectType>12</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Target Color - R : 80.00, G : 134.00, B : 113.00
+Target Color - R : 85.00, G : 124.00, B : 88.00
+Target Color - R : 91.00, G : 126.00, B : 80.00
+Target Color - R : 101.00, G : 157.00, B : 134.00
+Target Color - R : 96.00, G : 129.00, B : 84.00
+Target Color - R : 66.00, G : 111.00, B : 72.00
+.                     Color                                  Difference
+Num.      R         G         B         R         G         B        Radius
+001    189.18    194.88    103.16    109.18     60.88      9.84    125.39(X)
+002    189.27    194.91    103.11    104.27     70.91     15.11    126.99(X)
+003    189.36    194.95    103.08     98.36     68.95     23.08    122.32(X)
+004    189.42    194.95    103.06     88.42     37.95     30.94    101.07(X)
+005    189.46    194.95    103.03     93.46     65.95     19.03    115.96(X)
+006    189.50    194.94    102.98    123.50     83.94     30.98    152.50(X)
+</ResultMsg>
+    <PartRect X1="1912" Y1="284" X2="1979" Y2="351" X3="1876" Y3="454" X4="1809" Y4="387"/>
+    <WindowRect X1="1846" Y1="351" X2="1858" Y2="363" X3="1846" Y3="375" X4="1834" Y4="363"/>
+    <FrameRect X1="600880" Y1="88914" X2="633890" Y2="88914" X3="633890" Y3="116561" X4="600880" Y4="116561"/>
+    <DefectRect X1="625655" Y1="111535" X2="625900" Y2="111535" X3="625900" Y3="111779" X4="625655" Y4="111779"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="0" Y="0"/>
+    <DefectPos X1="1846" Y1="351" X2="1858" Y2="363" X3="1846" Y3="375" X4="1834" Y4="363"/>
+    <ActualResultMsg></ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AMTC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>V57</RefId>
+    <FrameId>9</FrameId>
+    <WindowId>0</WindowId>
+    <PartNumber>DSJHS0</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>11</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  1]   :  V       47.5%                    
+[  2]   :  V       30.8%                    
+== Retry ==
+[  1]   :  V       60.0%                    
+[  2]   :  V       41.4%                    
+----------------------------------
+Max score:  60.0%[Acceptance score :   60.0%]
+Offset(X, Y, Angle)    : -5, 6, 0.00
+Micro Unit : -80, 91, 0.00
+</ResultMsg>
+    <PartRect X1="1898" Y1="1786" X2="1965" Y2="1853" X3="1862" Y3="1956" X4="1795" Y4="1889"/>
+    <WindowRect X1="1898" Y1="1786" X2="1965" Y2="1853" X3="1862" Y3="1956" X4="1795" Y4="1889"/>
+    <FrameRect X1="565402" Y1="50698" X2="598412" Y2="50698" X3="598412" Y3="78345" X4="565402" Y4="78345"/>
+    <DefectRect X1="590128" Y1="52116" X2="591410" Y2="52116" X3="591410" Y3="54100" X4="590128" Y4="54100"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-5" Y="6"/>
+    <ActualResultMsg>Matching : 60.0% [Acceptance : 60.0%]
+X, Y, theta :
+-80 um, 91 um, 0.00 degree</ActualResultMsg></Defect></InspData>

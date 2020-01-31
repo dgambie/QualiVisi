@@ -1,0 +1,627 @@
+<InspData>
+  <ConfigInfo>
+    <Inspector>MV-7U2</Inspector>
+    <DefectPath></DefectPath>
+    <IsSaveOverKill>TRUE</IsSaveOverKill>
+    <UserID>admin</UserID></ConfigInfo>
+  <BoardInfo>
+    <Model>59364-SURF2</Model>
+    <SerialNo>00000243</SerialNo>
+    <RepSerialNo>00000243</RepSerialNo>
+    <BoardSide>0</BoardSide>
+    <BoardCount>2</BoardCount>
+    <ModuleCount>1</ModuleCount>
+    <InspStartTime>20200120;110552</InspStartTime>
+    <IsGood>0</IsGood></BoardInfo>
+  <DefectInfo>
+    <InspStartTime>2020-01-20 11:05:52</InspStartTime>
+    <InspEndTime>2020-01-20 11:06:15</InspEndTime>
+    <OperatorEndTime>2020-01-20 11:06:15</OperatorEndTime>
+    <RepairEndTime>2020-01-20 11:06:15</RepairEndTime>
+    <InspResult>1</InspResult>
+    <BoardSide>0</BoardSide></DefectInfo>
+  <DefectCount>
+    <Mounting>26</Mounting>
+    <Solder>0</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>0</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ICSolder>0</ICSolder></DefectCount>
+  <InspCount>
+    <Part>406</Part>
+    <Frame>46</Frame>
+    <Window>939</Window>
+    <Mounting>906</Mounting>
+    <Solder>12</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>21</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ICSolder>0</ICSolder>
+    <SkipInfo>0</SkipInfo></InspCount>
+  <ModuleResult>
+    <Module ModuleId="0" Result="0" IsSkiped="0">
+    </Module></ModuleResult>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R8</RefId>
+    <FrameId>35</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="243" Y1="139" X2="92" Y2="139" X3="92" Y3="50" X4="243" Y4="50"/>
+    <WindowRect X1="214" Y1="123" X2="119" Y2="123" X3="119" Y3="62" X4="214" Y4="62"/>
+    <FrameRect X1="615190" Y1="96484" X2="648106" Y2="96484" X3="648106" Y3="124121" X4="615190" Y4="124121"/>
+    <DefectRect X1="616806" Y1="122449" X2="618081" Y2="122449" X3="618081" Y3="123274" X4="616806" Y4="123274"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-3" Y="8"/>
+    <ActualResultMsg>Matching : 52.5% [Acceptance : 70.0%]
+X, Y, theta :
+-49 um, 114 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R8</RefId>
+    <FrameId>35</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="237" Y1="138" X2="86" Y2="138" X3="86" Y3="49" X4="237" Y4="49"/>
+    <WindowRect X1="213" Y1="123" X2="118" Y2="123" X3="118" Y3="62" X4="213" Y4="62"/>
+    <FrameRect X1="615190" Y1="96484" X2="648106" Y2="96484" X3="648106" Y3="124121" X4="615190" Y4="124121"/>
+    <DefectRect X1="616795" Y1="122448" X2="618069" Y2="122448" X3="618069" Y3="123273" X4="616795" Y4="123273"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-10" Y="7"/>
+    <ActualResultMsg>Matching : 22.0% [Acceptance : 70.0%]
+X, Y, theta :
+-136 um, 103 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AMTC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>IC14</RefId>
+    <FrameId>6</FrameId>
+    <WindowId>2</WindowId>
+    <PartNumber>MAYZK0M0276</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>11</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="349" Y1="984" X2="1495" Y2="984" X3="1495" Y3="1571" X4="349" Y4="1571"/>
+    <WindowRect X1="1401" Y1="1197" X2="1471" Y2="1197" X3="1471" Y3="1342" X4="1401" Y4="1342"/>
+    <FrameRect X1="608458" Y1="-27239" X2="641374" Y2="-27239" X3="641374" Y3="398" X4="608458" Y4="398"/>
+    <DefectRect X1="627299" Y1="-17708" X2="628240" Y2="-17708" X3="628240" Y3="-15741" X4="627299" Y4="-15741"/>
+    <AngleOffset>-19998.00</AngleOffset>
+    <Offset X="4" Y="6"/>
+    <ActualResultMsg>Matching : 46.1% [Acceptance : 50.0%]
+X, Y, theta :
+57 um, 93 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>IC13</RefId>
+    <FrameId>3</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>MNN3K0K0273</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>1</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1738" Y1="1562" X2="808" Y2="1562" X3="808" Y3="976" X4="1738" Y4="976"/>
+    <WindowRect X1="1349" Y1="1295" X2="1023" Y2="1295" X3="1023" Y3="1189" X4="1349" Y4="1189"/>
+    <FrameRect X1="500156" Y1="-23693" X2="533072" Y2="-23693" X3="533072" Y3="3944" X4="500156" Y4="3944"/>
+    <DefectRect X1="513923" Y1="-13518" X2="518306" Y2="-13518" X3="518306" Y3="-12087" X4="513923" Y4="-12087"/>
+    <AngleOffset>-19998.00</AngleOffset>
+    <Offset X="46" Y="30"/>
+    <ActualResultMsg>Matching : 68.2% [Acceptance : 70.0%]
+X, Y, theta :
+631 um, 415 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>IC13</RefId>
+    <FrameId>3</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>MNN3K0K0273</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>1</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1691" Y1="1531" X2="761" Y2="1531" X3="761" Y3="945" X4="1691" Y4="945"/>
+    <WindowRect X1="1217" Y1="1126" X2="821" Y2="1126" X3="821" Y3="1020" X4="1217" Y4="1020"/>
+    <FrameRect X1="500156" Y1="-23693" X2="533072" Y2="-23693" X3="533072" Y3="3944" X4="500156" Y4="3944"/>
+    <DefectRect X1="511205" Y1="-11241" X2="516529" Y2="-11241" X3="516529" Y3="-9810" X4="511205" Y4="-9810"/>
+    <AngleOffset>-19998.00</AngleOffset>
+    <Offset X="0" Y="0"/>
+    <ActualResultMsg>Matching : 0.0% [Acceptance : 70.0%]
+X, Y, theta :
+0 um, 0 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R80</RefId>
+    <FrameId>25</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="2240" Y1="1025" X2="2088" Y2="1025" X3="2088" Y3="936" X4="2240" Y4="936"/>
+    <WindowRect X1="2210" Y1="1009" X2="2115" Y2="1009" X3="2115" Y3="948" X4="2210" Y4="948"/>
+    <FrameRect X1="463207" Y1="50215" X2="496123" Y2="50215" X3="496123" Y3="77852" X4="463207" Y4="77852"/>
+    <DefectRect X1="491669" Y1="64229" X2="492943" Y2="64229" X3="492943" Y3="65054" X4="491669" Y4="65054"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="3" Y="8"/>
+    <ActualResultMsg>Matching : 59.9% [Acceptance : 70.0%]
+X, Y, theta :
+45 um, 114 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R80</RefId>
+    <FrameId>25</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="2229" Y1="1025" X2="2077" Y2="1025" X3="2077" Y3="936" X4="2229" Y4="936"/>
+    <WindowRect X1="2204" Y1="1010" X2="2109" Y2="1010" X3="2109" Y3="949" X4="2204" Y4="949"/>
+    <FrameRect X1="463207" Y1="50215" X2="496123" Y2="50215" X3="496123" Y3="77852" X4="463207" Y4="77852"/>
+    <DefectRect X1="491590" Y1="64215" X2="492864" Y2="64215" X3="492864" Y3="65040" X4="491590" Y4="65040"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-8" Y="8"/>
+    <ActualResultMsg>Matching : 64.7% [Acceptance : 70.0%]
+X, Y, theta :
+-109 um, 114 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R68</RefId>
+    <FrameId>29</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="2240" Y1="578" X2="2089" Y2="578" X3="2089" Y3="489" X4="2240" Y4="489"/>
+    <WindowRect X1="2211" Y1="562" X2="2116" Y2="562" X3="2116" Y3="501" X4="2211" Y4="501"/>
+    <FrameRect X1="385056" Y1="84739" X2="417972" Y2="84739" X3="417972" Y3="112377" X4="385056" Y4="112377"/>
+    <DefectRect X1="413535" Y1="104779" X2="414809" Y2="104779" X3="414809" Y3="105604" X4="413535" Y4="105604"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="4" Y="8"/>
+    <ActualResultMsg>Matching : 66.2% [Acceptance : 70.0%]
+X, Y, theta :
+62 um, 114 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R68</RefId>
+    <FrameId>29</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="2228" Y1="578" X2="2077" Y2="578" X3="2077" Y3="489" X4="2228" Y4="489"/>
+    <WindowRect X1="2204" Y1="563" X2="2109" Y2="563" X3="2109" Y3="502" X4="2204" Y4="502"/>
+    <FrameRect X1="385056" Y1="84739" X2="417972" Y2="84739" X3="417972" Y3="112377" X4="385056" Y4="112377"/>
+    <DefectRect X1="413442" Y1="104765" X2="414717" Y2="104765" X3="414717" Y3="105590" X4="413442" Y4="105590"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-6" Y="8"/>
+    <ActualResultMsg>Matching : 69.7% [Acceptance : 70.0%]
+X, Y, theta :
+-89 um, 114 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R67</RefId>
+    <FrameId>36</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="2276" Y1="636" X2="2124" Y2="636" X3="2124" Y3="547" X4="2276" Y4="547"/>
+    <WindowRect X1="2246" Y1="620" X2="2151" Y2="620" X3="2151" Y3="559" X4="2246" Y4="559"/>
+    <FrameRect X1="384597" Y1="103304" X2="417513" Y2="103304" X3="417513" Y3="130941" X4="384597" Y4="130941"/>
+    <DefectRect X1="413543" Y1="122562" X2="414818" Y2="122562" X3="414818" Y3="123387" X4="413543" Y4="123387"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="2" Y="8"/>
+    <ActualResultMsg>Matching : 43.7% [Acceptance : 70.0%]
+X, Y, theta :
+30 um, 118 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R67</RefId>
+    <FrameId>36</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="2264" Y1="635" X2="2112" Y2="635" X3="2112" Y3="546" X4="2264" Y4="546"/>
+    <WindowRect X1="2239" Y1="620" X2="2144" Y2="620" X3="2144" Y3="559" X4="2239" Y4="559"/>
+    <FrameRect X1="384597" Y1="103304" X2="417513" Y2="103304" X3="417513" Y3="130941" X4="384597" Y4="130941"/>
+    <DefectRect X1="413451" Y1="122562" X2="414725" Y2="122562" X3="414725" Y3="123387" X4="413451" Y4="123387"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-9" Y="8"/>
+    <ActualResultMsg>Matching : 26.7% [Acceptance : 70.0%]
+X, Y, theta :
+-131 um, 110 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R53</RefId>
+    <FrameId>37</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1960" Y1="792" X2="1809" Y2="792" X3="1809" Y3="703" X4="1960" Y4="703"/>
+    <WindowRect X1="1932" Y1="776" X2="1838" Y2="776" X3="1838" Y3="715" X4="1932" Y4="715"/>
+    <FrameRect X1="424348" Y1="105358" X2="457264" Y2="105358" X3="457264" Y3="132995" X4="424348" Y4="132995"/>
+    <DefectRect X1="449066" Y1="122511" X2="450340" Y2="122511" X3="450340" Y3="123336" X4="449066" Y4="123336"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="1" Y="8"/>
+    <ActualResultMsg>Matching : 30.0% [Acceptance : 70.0%]
+X, Y, theta :
+18 um, 116 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R53</RefId>
+    <FrameId>37</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1950" Y1="791" X2="1799" Y2="791" X3="1799" Y3="702" X4="1950" Y4="702"/>
+    <WindowRect X1="1927" Y1="776" X2="1833" Y2="776" X3="1833" Y3="715" X4="1927" Y4="715"/>
+    <FrameRect X1="424348" Y1="105358" X2="457264" Y2="105358" X3="457264" Y3="132995" X4="424348" Y4="132995"/>
+    <DefectRect X1="449000" Y1="122510" X2="450275" Y2="122510" X3="450275" Y3="123335" X4="449000" Y4="123335"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-9" Y="7"/>
+    <ActualResultMsg>Matching : 18.9% [Acceptance : 70.0%]
+X, Y, theta :
+-125 um, 104 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R60</RefId>
+    <FrameId>37</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="639" Y1="788" X2="487" Y2="788" X3="487" Y3="699" X4="639" Y4="699"/>
+    <WindowRect X1="609" Y1="772" X2="514" Y2="772" X3="514" Y3="711" X4="609" Y4="711"/>
+    <FrameRect X1="424348" Y1="105358" X2="457264" Y2="105358" X3="457264" Y3="132995" X4="424348" Y4="132995"/>
+    <DefectRect X1="431276" Y1="122566" X2="432551" Y2="122566" X3="432551" Y3="123392" X4="431276" Y4="123392"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="4" Y="8"/>
+    <ActualResultMsg>Matching : 69.5% [Acceptance : 70.0%]
+X, Y, theta :
+56 um, 114 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R60</RefId>
+    <FrameId>37</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="629" Y1="787" X2="477" Y2="787" X3="477" Y3="698" X4="629" Y4="698"/>
+    <WindowRect X1="604" Y1="772" X2="509" Y2="772" X3="509" Y3="711" X4="604" Y4="711"/>
+    <FrameRect X1="424348" Y1="105358" X2="457264" Y2="105358" X3="457264" Y3="132995" X4="424348" Y4="132995"/>
+    <DefectRect X1="431211" Y1="122566" X2="432485" Y2="122566" X3="432485" Y3="123391" X4="431211" Y4="123391"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-6" Y="8"/>
+    <ActualResultMsg>Matching : 60.3% [Acceptance : 70.0%]
+X, Y, theta :
+-84 um, 112 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R54</RefId>
+    <FrameId>30</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1931" Y1="580" X2="1779" Y2="580" X3="1779" Y3="491" X4="1931" Y4="491"/>
+    <WindowRect X1="1901" Y1="564" X2="1806" Y2="564" X3="1806" Y3="503" X4="1901" Y4="503"/>
+    <FrameRect X1="424796" Y1="84725" X2="457713" Y2="84725" X3="457713" Y3="112362" X4="424796" Y4="112362"/>
+    <DefectRect X1="449103" Y1="104743" X2="450377" Y2="104743" X3="450377" Y3="105568" X4="449103" Y4="105568"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="2" Y="8"/>
+    <ActualResultMsg>Matching : 63.7% [Acceptance : 70.0%]
+X, Y, theta :
+39 um, 116 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R54</RefId>
+    <FrameId>30</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1920" Y1="579" X2="1768" Y2="579" X3="1768" Y3="490" X4="1920" Y4="490"/>
+    <WindowRect X1="1895" Y1="564" X2="1800" Y2="564" X3="1800" Y3="503" X4="1895" Y4="503"/>
+    <FrameRect X1="424796" Y1="84725" X2="457713" Y2="84725" X3="457713" Y3="112362" X4="424796" Y4="112362"/>
+    <DefectRect X1="449024" Y1="104742" X2="450298" Y2="104742" X3="450298" Y3="105567" X4="449024" Y4="105567"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-8" Y="8"/>
+    <ActualResultMsg>Matching : 46.3% [Acceptance : 70.0%]
+X, Y, theta :
+-113 um, 111 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AINC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>J1</RefId>
+    <FrameId>38</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>J0K0AL008L</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>12</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1018" Y1="1580" X2="1018" Y2="1234" X3="2097" Y3="1234" X4="2097" Y4="1580"/>
+    <WindowRect X1="1900" Y1="1292" X2="1900" Y2="1240" X3="1935" Y3="1240" X4="1935" Y4="1292"/>
+    <FrameRect X1="461783" Y1="93916" X2="494699" Y2="93916" X3="494699" Y3="121553" X4="461783" Y4="121553"/>
+    <DefectRect X1="487216" Y1="104238" X2="487918" Y2="104238" X3="487918" Y3="104709" X4="487216" Y4="104709"/>
+    <AngleOffset>-19998.00</AngleOffset>
+    <Offset X="21" Y="-17"/>
+    <ActualResultMsg>Matching : 26.5% [Acceptance : 70.0%]
+X, Y, theta :
+285 um, -238 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R32</RefId>
+    <FrameId>26</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1952" Y1="1042" X2="1801" Y2="1042" X3="1801" Y3="953" X4="1952" Y4="953"/>
+    <WindowRect X1="1923" Y1="1026" X2="1828" Y2="1026" X3="1828" Y3="965" X4="1923" Y4="965"/>
+    <FrameRect X1="538588" Y1="55305" X2="571504" Y2="55305" X3="571504" Y3="82942" X4="538588" Y4="82942"/>
+    <DefectRect X1="563195" Y1="69089" X2="564470" Y2="69089" X3="564470" Y3="69914" X4="563195" Y4="69914"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="3" Y="8"/>
+    <ActualResultMsg>Matching : 37.5% [Acceptance : 70.0%]
+X, Y, theta :
+45 um, 119 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R32</RefId>
+    <FrameId>26</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1941" Y1="1041" X2="1790" Y2="1041" X3="1790" Y3="952" X4="1941" Y4="952"/>
+    <WindowRect X1="1917" Y1="1026" X2="1822" Y2="1026" X3="1822" Y3="965" X4="1917" Y4="965"/>
+    <FrameRect X1="538588" Y1="55305" X2="571504" Y2="55305" X3="571504" Y3="82942" X4="538588" Y4="82942"/>
+    <DefectRect X1="563116" Y1="69088" X2="564391" Y2="69088" X3="564391" Y3="69914" X4="563116" Y4="69914"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-7" Y="7"/>
+    <ActualResultMsg>Matching : 20.2% [Acceptance : 70.0%]
+X, Y, theta :
+-105 um, 106 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R22</RefId>
+    <FrameId>41</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="641" Y1="608" X2="490" Y2="608" X3="490" Y3="519" X4="641" Y4="519"/>
+    <WindowRect X1="612" Y1="594" X2="517" Y2="594" X3="517" Y3="532" X4="612" Y4="532"/>
+    <FrameRect X1="574107" Y1="102816" X2="607023" Y2="102816" X3="607023" Y3="130453" X4="574107" Y4="130453"/>
+    <DefectRect X1="581077" Y1="122448" X2="582352" Y2="122448" X3="582352" Y3="123273" X4="581077" Y4="123273"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-3" Y="9"/>
+    <ActualResultMsg>Matching : 69.0% [Acceptance : 70.0%]
+X, Y, theta :
+-48 um, 128 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R22</RefId>
+    <FrameId>41</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="635" Y1="607" X2="484" Y2="607" X3="484" Y3="518" X4="635" Y4="518"/>
+    <WindowRect X1="611" Y1="594" X2="516" Y2="594" X3="516" Y3="532" X4="611" Y4="532"/>
+    <FrameRect X1="574107" Y1="102816" X2="607023" Y2="102816" X3="607023" Y3="130453" X4="574107" Y4="130453"/>
+    <DefectRect X1="581066" Y1="122447" X2="582340" Y2="122447" X3="582340" Y3="123272" X4="581066" Y4="123272"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-10" Y="8"/>
+    <ActualResultMsg>Matching : 16.8% [Acceptance : 70.0%]
+X, Y, theta :
+-138 um, 116 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R17</RefId>
+    <FrameId>34</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1972" Y1="1611" X2="1820" Y2="1611" X3="1820" Y3="1522" X4="1972" Y4="1522"/>
+    <WindowRect X1="1942" Y1="1595" X2="1847" Y2="1595" X3="1847" Y3="1534" X4="1942" Y4="1534"/>
+    <FrameRect X1="574112" Y1="80692" X2="607028" Y2="80692" X3="607028" Y3="108329" X4="574112" Y4="108329"/>
+    <DefectRect X1="598970" Y1="86801" X2="600245" Y2="86801" X3="600245" Y3="87627" X4="598970" Y4="87627"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="1" Y="8"/>
+    <ActualResultMsg>Matching : 50.6% [Acceptance : 70.0%]
+X, Y, theta :
+16 um, 115 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R17</RefId>
+    <FrameId>34</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="1961" Y1="1610" X2="1809" Y2="1610" X3="1809" Y3="1521" X4="1961" Y4="1521"/>
+    <WindowRect X1="1936" Y1="1595" X2="1841" Y2="1595" X3="1841" Y3="1534" X4="1936" Y4="1534"/>
+    <FrameRect X1="574112" Y1="80692" X2="607028" Y2="80692" X3="607028" Y3="108329" X4="574112" Y4="108329"/>
+    <DefectRect X1="598891" Y1="86801" X2="600166" Y2="86801" X3="600166" Y3="87626" X4="598891" Y4="87626"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-9" Y="8"/>
+    <ActualResultMsg>Matching : 41.0% [Acceptance : 70.0%]
+X, Y, theta :
+-131 um, 110 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R24</RefId>
+    <FrameId>34</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="632" Y1="1606" X2="481" Y2="1606" X3="481" Y3="1517" X4="632" Y4="1517"/>
+    <WindowRect X1="604" Y1="1590" X2="510" Y2="1590" X3="510" Y3="1529" X4="604" Y4="1529"/>
+    <FrameRect X1="574112" Y1="80692" X2="607028" Y2="80692" X3="607028" Y3="108329" X4="574112" Y4="108329"/>
+    <DefectRect X1="580967" Y1="86871" X2="582241" Y2="86871" X3="582241" Y3="87696" X4="580967" Y4="87696"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="0" Y="8"/>
+    <ActualResultMsg>Matching : 66.7% [Acceptance : 70.0%]
+X, Y, theta :
+2 um, 114 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R24</RefId>
+    <FrameId>34</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <PartRect X1="622" Y1="1605" X2="471" Y2="1605" X3="471" Y3="1516" X4="622" Y4="1516"/>
+    <WindowRect X1="599" Y1="1590" X2="505" Y2="1590" X3="505" Y3="1529" X4="599" Y4="1529"/>
+    <FrameRect X1="574112" Y1="80692" X2="607028" Y2="80692" X3="607028" Y3="108329" X4="574112" Y4="108329"/>
+    <DefectRect X1="580901" Y1="86870" X2="582176" Y2="86870" X3="582176" Y3="87696" X4="580901" Y4="87696"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-9" Y="8"/>
+    <ActualResultMsg>Matching : 63.0% [Acceptance : 70.0%]
+X, Y, theta :
+-131 um, 110 um, 0.00 degree</ActualResultMsg></Defect></InspData>

@@ -1,0 +1,709 @@
+<InspData>
+  <ConfigInfo>
+    <Inspector>MV-7U</Inspector>
+    <DefectPath></DefectPath>
+    <IsSaveOverKill>TRUE</IsSaveOverKill>
+    <UserID>admin</UserID></ConfigInfo>
+  <BoardInfo>
+    <Model>59364-SURF2</Model>
+    <SerialNo>00000266</SerialNo>
+    <RepSerialNo>00000266</RepSerialNo>
+    <BoardSide>0</BoardSide>
+    <BoardCount>4</BoardCount>
+    <ModuleCount>1</ModuleCount>
+    <InspStartTime>20200120;135706</InspStartTime>
+    <IsGood>0</IsGood></BoardInfo>
+  <DefectInfo>
+    <InspStartTime>2020-01-20 13:57:06</InspStartTime>
+    <InspEndTime>2020-01-20 13:57:26</InspEndTime>
+    <OperatorEndTime>2020-01-20 13:57:26</OperatorEndTime>
+    <RepairEndTime>2020-01-20 13:57:26</RepairEndTime>
+    <InspResult>1</InspResult>
+    <BoardSide>0</BoardSide></DefectInfo>
+  <DefectCount>
+    <Mounting>14</Mounting>
+    <Solder>2</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>0</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ICSolder>0</ICSolder></DefectCount>
+  <InspCount>
+    <Part>406</Part>
+    <Frame>46</Frame>
+    <Window>939</Window>
+    <Mounting>906</Mounting>
+    <Solder>12</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>21</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ICSolder>0</ICSolder>
+    <SkipInfo>0</SkipInfo></InspCount>
+  <ModuleResult>
+    <Module ModuleId="0" Result="0" IsSkiped="0">
+    </Module></ModuleResult>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R9</RefId>
+    <FrameId>35</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[ 11]   :  V       68.8%                    
+[ 12]   :   V     X
+[ 14]   :   V     X
+[  1]   :  V       20.3%                    
+[  2]   :   V     X
+[  3]   :   V     X
+[  4]   :  V       12.6%                    
+[  5]   :   V     X
+[  6]   :  V       12.3%                    
+[  7]   :  V       11.8%                    
+[  8]   :  V       13.1%                    
+[  9]   :   V     X
+[ 10]   :   V     X
+[ 13]   :  V       41.0%                    
+== Retry ==
+[ 11]   :  V       68.8%                    
+[ 12]   :   V     X
+[ 14]   :   V     X
+[  1]   :  V       20.3%                    
+[  2]   :   V     X
+[  3]   :   V     X
+[  4]   :  V       12.6%                    
+[  5]   :   V     X
+[  6]   :  V       12.3%                    
+[  7]   :  V       11.8%                    
+[  8]   :  V       13.1%                    
+[  9]   :   V     X
+[ 10]   :   V     X
+[ 13]   :  V       41.0%                    
+----------------------------------
+Max score:  68.8%[Acceptance score :   70.0%]
+Offset(X, Y, Angle)    : 8, 8, 0.00
+Micro Unit : 111, 119, 0.00
+</ResultMsg>
+    <PartRect X1="244" Y1="1465" X2="93" Y2="1465" X3="93" Y3="1376" X4="244" Y4="1376"/>
+    <WindowRect X1="215" Y1="1449" X2="120" Y2="1449" X3="120" Y3="1388" X4="215" Y4="1388"/>
+    <FrameRect X1="619846" Y1="102002" X2="652857" Y2="102002" X3="652857" Y3="129649" X4="619846" Y4="129649"/>
+    <DefectRect X1="621483" Y1="110079" X2="622757" Y2="110079" X3="622757" Y3="110904" X4="621483" Y4="110904"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="8" Y="8"/>
+    <ActualResultMsg>Matching : 68.8% [Acceptance : 70.0%]
+X, Y, theta :
+111 um, 119 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R9</RefId>
+    <FrameId>35</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  2]   :  V       49.2%                    
+[  1]   :  V       16.6%                    
+== Retry ==
+[  2]   :  V       49.2%                    
+[  1]   :  V       16.6%                    
+----------------------------------
+Max score:  49.2%[Acceptance score :   70.0%]
+Offset(X, Y, Angle)    : -2, 8, 0.00
+Micro Unit : -31, 114, 0.00
+</ResultMsg>
+    <PartRect X1="234" Y1="1464" X2="83" Y2="1464" X3="83" Y3="1375" X4="234" Y4="1375"/>
+    <WindowRect X1="210" Y1="1449" X2="115" Y2="1449" X3="115" Y3="1388" X4="210" Y4="1388"/>
+    <FrameRect X1="619846" Y1="102002" X2="652857" Y2="102002" X3="652857" Y3="129649" X4="619846" Y4="129649"/>
+    <DefectRect X1="621417" Y1="110078" X2="622691" Y2="110078" X3="622691" Y3="110904" X4="621417" Y4="110904"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-2" Y="8"/>
+    <ActualResultMsg>Matching : 49.2% [Acceptance : 70.0%]
+X, Y, theta :
+-31 um, 114 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AMTC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>IC4</RefId>
+    <FrameId>14</FrameId>
+    <WindowId>0</WindowId>
+    <PartNumber>MNN3L0G0051</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>11</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  2]   :  V       33.6%                    
+[  1]   :  V       24.8%                    
+[  3]   :  V       30.3%                    
+== Retry ==
+[  2]   :  V       38.8%                    
+[  1]   :  V       29.6%                    
+[  3]   :  V       34.7%                    
+----------------------------------
+Max score:  38.8%[Acceptance score :   60.0%]
+Offset(X, Y, Angle)    : -10, -6, 0.00
+Micro Unit : -141, -85, 0.00
+</ResultMsg>
+    <PartRect X1="1905" Y1="192" X2="2213" Y2="192" X3="2213" Y3="893" X4="1905" Y4="893"/>
+    <WindowRect X1="1905" Y1="192" X2="2213" Y2="192" X3="2213" Y3="893" X4="1905" Y4="893"/>
+    <FrameRect X1="620039" Y1="20157" X2="653049" Y2="20157" X3="653049" Y3="47804" X4="620039" Y4="47804"/>
+    <DefectRect X1="645741" Y1="35758" X2="649896" Y2="35758" X3="649896" Y3="45219" X4="645741" Y4="45219"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-10" Y="-6"/>
+    <ActualResultMsg>Matching : 38.8% [Acceptance : 60.0%]
+X, Y, theta :
+-141 um, -85 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AINC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>IC4</RefId>
+    <FrameId>14</FrameId>
+    <WindowId>2</WindowId>
+    <PartNumber>MNN3L0G0051</PartNumber>
+    <WindowType>2</WindowType>
+    <DefectType>12</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg> Insp type : Solder 
+ Condition  :   0 &lt;= X &lt;=  30 
+ White Rate[W] : 70.3% [80.0% ~ 100.0%] 
+Actual Area(um2) : 351484 
+</ResultMsg>
+    <PartRect X1="1916" Y1="198" X2="2224" Y2="198" X3="2224" Y3="899" X4="1916" Y4="899"/>
+    <WindowRect X1="1934" Y1="467" X2="1949" Y2="467" X3="1949" Y3="650" X4="1934" Y4="650"/>
+    <FrameRect X1="620039" Y1="20157" X2="653049" Y2="20157" X3="653049" Y3="47804" X4="620039" Y4="47804"/>
+    <DefectRect X1="646124" Y1="39033" X2="646331" Y2="39033" X3="646331" Y3="41505" X4="646124" Y4="41505"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="0" Y="0"/>
+    <DefectPos X1="1934" Y1="467" X2="1949" Y2="467" X3="1949" Y3="650" X4="1934" Y4="650"/>
+    <ActualResultMsg> Condition  :   0 &lt;= X &lt;=  30 
+ White Rate[W] : 70.3% [80.0% ~ 100.0%] 
+Actual Area(um2) : 351484 
+</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AMTC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>IC15</RefId>
+    <FrameId>5</FrameId>
+    <WindowId>0</WindowId>
+    <PartNumber>MAYZK0M0276</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>11</DefectType>
+    <ViewType>1</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  1]   :  H       55.2%                    
+[  2]   :  H       52.6%                    
+== Retry ==
+[  1]   :  H       55.2%                    
+[  2]   :  H       52.6%                    
+----------------------------------
+Max score:  55.2%[Acceptance score :   60.0%]
+Offset(X, Y, Angle)    : -7, -3, 0.00
+Micro Unit : -100, -47, 0.00
+</ResultMsg>
+    <PartRect X1="501" Y1="492" X2="1643" Y2="492" X3="1643" Y3="1078" X4="501" Y4="1078"/>
+    <WindowRect X1="501" Y1="492" X2="1643" Y2="492" X3="1643" Y3="1078" X4="501" Y4="1078"/>
+    <FrameRect X1="575692" Y1="-28430" X2="608702" Y2="-28430" X3="608702" Y3="-783" X4="575692" Y4="-783"/>
+    <DefectRect X1="582445" Y1="-15327" X2="597863" Y2="-15327" X3="597863" Y3="-7416" X4="582445" Y4="-7416"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-7" Y="-3"/>
+    <ActualResultMsg>Matching : 55.2% [Acceptance : 60.0%]
+X, Y, theta :
+-100 um, -47 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AMTC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>IC18</RefId>
+    <FrameId>0</FrameId>
+    <WindowId>2</WindowId>
+    <PartNumber>MAYZK0M0276</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>11</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  1]   :  V       15.2%                    
+[  2]   :   V     X
+== Retry ==
+[  1]   :  V       15.3%                    
+[  2]   :   V     X
+----------------------------------
+Max score:  15.3%[Acceptance score :   50.0%]
+Offset(X, Y, Angle)    : 11, 6, 0.00
+Micro Unit : 151, 94, 0.00
+</ResultMsg>
+    <PartRect X1="516" Y1="496" X2="1659" Y2="496" X3="1659" Y3="1083" X4="516" Y4="1083"/>
+    <WindowRect X1="1565" Y1="708" X2="1634" Y2="708" X3="1634" Y3="854" X4="1565" Y4="854"/>
+    <FrameRect X1="398283" Y1="-28828" X2="431293" Y2="-28828" X3="431293" Y3="-1181" X4="398283" Y4="-1181"/>
+    <DefectRect X1="419389" Y1="-12707" X2="420330" Y2="-12707" X3="420330" Y3="-10739" X4="419389" Y4="-10739"/>
+    <AngleOffset>-19998.00</AngleOffset>
+    <Offset X="11" Y="6"/>
+    <ActualResultMsg>Matching : 15.3% [Acceptance : 50.0%]
+X, Y, theta :
+151 um, 94 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R72</RefId>
+    <FrameId>15</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[ 11]   :  V       69.6%                    
+[ 12]   :  V       17.2%                    
+[ 14]   :  V       12.2%                    
+[  1]   :  V       24.0%                    
+[  2]   :   V     X
+[  3]   :  V       14.2%                    
+[  4]   :   V     X
+[  5]   :  V       17.4%                    
+[  6]   :  V       15.9%                    
+[  7]   :  V       17.3%                    
+[  8]   :  V       14.5%                    
+[  9]   :   V     X
+[ 10]   :  V       14.7%                    
+[ 13]   :  V       43.7%                    
+== Retry ==
+[ 11]   :  V       69.6%                    
+[ 12]   :  V       17.2%                    
+[ 14]   :  V       12.2%                    
+[  1]   :  V       24.0%                    
+[  2]   :   V     X
+[  3]   :  V       14.2%                    
+[  4]   :   V     X
+[  5]   :  V       17.4%                    
+[  6]   :  V       15.9%                    
+[  7]   :  V       17.3%                    
+[  8]   :  V       14.5%                    
+[  9]   :   V     X
+[ 10]   :  V       14.7%                    
+[ 13]   :  V       43.7%                    
+----------------------------------
+Max score:  69.6%[Acceptance score :   70.0%]
+Offset(X, Y, Angle)    : 3, 9, 0.00
+Micro Unit : 47, 130, 0.00
+</ResultMsg>
+    <PartRect X1="2270" Y1="1598" X2="2119" Y2="1598" X3="2119" Y3="1509" X4="2270" Y4="1509"/>
+    <WindowRect X1="2242" Y1="1584" X2="2148" Y2="1584" X3="2148" Y3="1522" X4="2242" Y4="1522"/>
+    <FrameRect X1="389328" Y1="27350" X2="422339" Y2="27350" X3="422339" Y3="54997" X4="389328" Y4="54997"/>
+    <DefectRect X1="418304" Y1="33631" X2="419578" Y2="33631" X3="419578" Y3="34456" X4="418304" Y4="34456"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="3" Y="9"/>
+    <ActualResultMsg>Matching : 69.6% [Acceptance : 70.0%]
+X, Y, theta :
+47 um, 130 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R72</RefId>
+    <FrameId>15</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  2]   :  V       63.7%                    
+[  1]   :  V       16.1%                    
+== Retry ==
+[  2]   :  V       63.7%                    
+[  1]   :  V       16.1%                    
+----------------------------------
+Max score:  63.7%[Acceptance score :   70.0%]
+Offset(X, Y, Angle)    : -7, 9, 0.00
+Micro Unit : -105, 125, 0.00
+</ResultMsg>
+    <PartRect X1="2259" Y1="1597" X2="2108" Y2="1597" X3="2108" Y3="1508" X4="2259" Y4="1508"/>
+    <WindowRect X1="2236" Y1="1584" X2="2141" Y2="1584" X3="2141" Y3="1522" X4="2236" Y4="1522"/>
+    <FrameRect X1="389328" Y1="27350" X2="422339" Y2="27350" X3="422339" Y3="54997" X4="389328" Y4="54997"/>
+    <DefectRect X1="418224" Y1="33630" X2="419499" Y2="33630" X3="419499" Y3="34455" X4="418224" Y4="34455"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-7" Y="9"/>
+    <ActualResultMsg>Matching : 63.7% [Acceptance : 70.0%]
+X, Y, theta :
+-105 um, 125 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AMTC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>IC9</RefId>
+    <FrameId>23</FrameId>
+    <WindowId>0</WindowId>
+    <PartNumber>MNN3L0G0051</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>11</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  3]   :  V       44.6%                    
+[  1]   :  V       35.9%                    
+[  2]   :  V       42.8%                    
+== Retry ==
+[  3]   :  V       50.5%                    
+[  1]   :  V       41.4%                    
+[  2]   :  V       47.0%                    
+----------------------------------
+Max score:  50.5%[Acceptance score :   60.0%]
+Offset(X, Y, Angle)    : 10, 8, 0.00
+Micro Unit : 142, 117, 0.00
+</ResultMsg>
+    <PartRect X1="560" Y1="1548" X2="252" Y2="1548" X3="252" Y3="847" X4="560" Y4="847"/>
+    <WindowRect X1="560" Y1="1548" X2="252" Y2="1548" X3="252" Y3="847" X4="560" Y4="847"/>
+    <FrameRect X1="390772" Y1="60640" X2="423782" Y2="60640" X3="423782" Y3="88287" X4="390772" Y4="88287"/>
+    <DefectRect X1="394169" Y1="67388" X2="398324" Y2="67388" X3="398324" Y3="76850" X4="394169" Y4="76850"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="10" Y="8"/>
+    <ActualResultMsg>Matching : 50.5% [Acceptance : 60.0%]
+X, Y, theta :
+142 um, 117 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AINC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>IC9</RefId>
+    <FrameId>23</FrameId>
+    <WindowId>2</WindowId>
+    <PartNumber>MNN3L0G0051</PartNumber>
+    <WindowType>2</WindowType>
+    <DefectType>12</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg> Insp type : Solder 
+ Condition  :   0 &lt;= X &lt;=  30 
+ White Rate[W] : 61.1% [80.0% ~ 100.0%] 
+Actual Area(um2) : 306707 
+</ResultMsg>
+    <PartRect X1="549" Y1="1539" X2="241" Y2="1539" X3="241" Y3="838" X4="549" Y4="838"/>
+    <WindowRect X1="530" Y1="1271" X2="515" Y2="1271" X3="515" Y3="1087" X4="530" Y4="1087"/>
+    <FrameRect X1="390772" Y1="60640" X2="423782" Y2="60640" X3="423782" Y3="88287" X4="390772" Y4="88287"/>
+    <DefectRect X1="397734" Y1="71143" X2="397941" Y2="71143" X3="397941" Y3="73615" X4="397734" Y4="73615"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="0" Y="0"/>
+    <DefectPos X1="528" Y1="1271" X2="513" Y2="1271" X3="513" Y3="1087" X4="528" Y4="1087"/>
+    <ActualResultMsg> Condition  :   0 &lt;= X &lt;=  30 
+ White Rate[W] : 61.1% [80.0% ~ 100.0%] 
+Actual Area(um2) : 306707 
+</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R53</RefId>
+    <FrameId>37</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[ 12]   :   V     X
+[ 11]   :  V       58.3%                    
+[ 14]   :  V       11.4%                    
+[  1]   :  V       17.1%                    
+[  2]   :   V     X
+[  3]   :   V     X
+[  4]   :   V     X
+[  5]   :   V     X
+[  6]   :   V     X
+[  7]   :   V     X
+[  8]   :   V     X
+[  9]   :   V     X
+[ 10]   :   V     X
+[ 13]   :  V       25.5%                    
+== Retry ==
+[ 12]   :   V     X
+[ 11]   :  V       58.3%                    
+[ 14]   :  V       11.4%                    
+[  1]   :  V       17.1%                    
+[  2]   :   V     X
+[  3]   :   V     X
+[  4]   :   V     X
+[  5]   :   V     X
+[  6]   :   V     X
+[  7]   :   V     X
+[  8]   :   V     X
+[  9]   :   V     X
+[ 10]   :   V     X
+[ 13]   :  V       25.5%                    
+----------------------------------
+Max score:  58.3%[Acceptance score :   70.0%]
+Offset(X, Y, Angle)    : 4, 8, 0.00
+Micro Unit : 58, 117, 0.00
+</ResultMsg>
+    <PartRect X1="1961" Y1="791" X2="1810" Y2="791" X3="1810" Y3="702" X4="1961" Y4="702"/>
+    <WindowRect X1="1932" Y1="775" X2="1837" Y2="775" X3="1837" Y3="714" X4="1932" Y4="714"/>
+    <FrameRect X1="428988" Y1="110542" X2="461999" Y2="110542" X3="461999" Y3="138189" X4="428988" Y4="138189"/>
+    <DefectRect X1="453787" Y1="127715" X2="455062" Y2="127715" X3="455062" Y3="128540" X4="453787" Y4="128540"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="4" Y="8"/>
+    <ActualResultMsg>Matching : 58.3% [Acceptance : 70.0%]
+X, Y, theta :
+58 um, 117 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R53</RefId>
+    <FrameId>37</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  1]   :  V       14.6%                    
+[  2]   :  V       40.0%                    
+== Retry ==
+[  1]   :  V       14.6%                    
+[  2]   :  V       40.0%                    
+----------------------------------
+Max score:  40.0%[Acceptance score :   70.0%]
+Offset(X, Y, Angle)    : -6, 8, 0.00
+Micro Unit : -89, 112, 0.00
+</ResultMsg>
+    <PartRect X1="1950" Y1="790" X2="1799" Y2="790" X3="1799" Y3="701" X4="1950" Y4="701"/>
+    <WindowRect X1="1926" Y1="775" X2="1831" Y2="775" X3="1831" Y3="714" X4="1926" Y4="714"/>
+    <FrameRect X1="428988" Y1="110542" X2="461999" Y2="110542" X3="461999" Y3="138189" X4="428988" Y4="138189"/>
+    <DefectRect X1="453708" Y1="127714" X2="454983" Y2="127714" X3="454983" Y3="128540" X4="453708" Y4="128540"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-6" Y="8"/>
+    <ActualResultMsg>Matching : 40.0% [Acceptance : 70.0%]
+X, Y, theta :
+-89 um, 112 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AMTC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>J1</RefId>
+    <FrameId>38</FrameId>
+    <WindowId>0</WindowId>
+    <PartNumber>J0K0AL008L</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>11</DefectType>
+    <ViewType>1</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  3]   :  H       54.4%                    
+[  1]   :  H       59.1%                    
+[  2]   :  H       32.3%                    
+[  4]   :  H       45.1%                    
+== Retry ==
+[  3]   :  H       54.4%                    
+[  1]   :  H       59.1%                    
+[  2]   :  H       32.3%                    
+[  4]   :  H       45.1%                    
+----------------------------------
+Max score:  59.1%[Acceptance score :   60.0%]
+Offset(X, Y, Angle)    : -4, -10, 0.00
+Micro Unit : -60, -140, 0.00
+</ResultMsg>
+    <PartRect X1="986" Y1="1593" X2="986" Y2="1248" X3="2064" Y3="1248" X4="2064" Y4="1593"/>
+    <WindowRect X1="986" Y1="1593" X2="986" Y2="1248" X3="2064" Y3="1248" X4="2064" Y4="1593"/>
+    <FrameRect X1="466445" Y1="99165" X2="499455" Y2="99165" X3="499455" Y3="126813" X4="466445" Y4="126813"/>
+    <DefectRect X1="484699" Y1="100368" X2="489350" Y2="100368" X3="489350" Y3="114912" X4="484699" Y4="114912"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-4" Y="-10"/>
+    <ActualResultMsg>Matching : 59.1% [Acceptance : 60.0%]
+X, Y, theta :
+-60 um, -140 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>AINC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>J1</RefId>
+    <FrameId>38</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>J0K0AL008L</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>12</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  1]   :  V       44.6%                    
+[  2]   :  V       19.8%                    
+[  3]   :   V     X
+== Retry ==
+[  1]   :  V       44.6%                    
+[  2]   :  V       19.8%                    
+[  3]   :   V     X
+----------------------------------
+Max score:  44.6%[Acceptance score :   70.0%]
+Offset(X, Y, Angle)    : 8, 0, 0.00
+Micro Unit : 108, -6, 0.00
+</ResultMsg>
+    <PartRect X1="991" Y1="1603" X2="991" Y2="1258" X3="2069" Y3="1258" X4="2069" Y4="1603"/>
+    <WindowRect X1="1873" Y1="1315" X2="1873" Y2="1263" X3="1908" Y3="1263" X4="1908" Y4="1315"/>
+    <FrameRect X1="466445" Y1="99165" X2="499455" Y2="99165" X3="499455" Y3="126813" X4="466445" Y4="126813"/>
+    <DefectRect X1="491583" Y1="109176" X2="492286" Y2="109176" X3="492286" Y3="109647" X4="491583" Y4="109647"/>
+    <AngleOffset>-19998.00</AngleOffset>
+    <Offset X="8" Y="0"/>
+    <ActualResultMsg>Matching : 44.6% [Acceptance : 70.0%]
+X, Y, theta :
+108 um, -6 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R17</RefId>
+    <FrameId>34</FrameId>
+    <WindowId>1</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[ 12]   :   V     X
+[ 11]   :  V       68.0%                    
+[ 14]   :   V     X
+[  1]   :  V       19.5%                    
+[  2]   :   V     X
+[  3]   :  V       11.7%                    
+[  4]   :   V     X
+[  5]   :  V       13.5%                    
+[  6]   :  V       12.5%                    
+[  7]   :  V       13.1%                    
+[  8]   :  V       13.1%                    
+[  9]   :   V     X
+[ 10]   :   V     X
+[ 13]   :  V       30.2%                    
+== Retry ==
+[ 12]   :   V     X
+[ 11]   :  V       68.0%                    
+[ 14]   :   V     X
+[  1]   :  V       19.5%                    
+[  2]   :   V     X
+[  3]   :  V       11.7%                    
+[  4]   :   V     X
+[  5]   :  V       13.5%                    
+[  6]   :  V       12.5%                    
+[  7]   :  V       13.1%                    
+[  8]   :  V       13.1%                    
+[  9]   :   V     X
+[ 10]   :   V     X
+[ 13]   :  V       30.2%                    
+----------------------------------
+Max score:  68.0%[Acceptance score :   70.0%]
+Offset(X, Y, Angle)    : 1, 8, 0.00
+Micro Unit : 24, 116, 0.00
+</ResultMsg>
+    <PartRect X1="1971" Y1="1610" X2="1820" Y2="1610" X3="1820" Y3="1521" X4="1971" Y4="1521"/>
+    <WindowRect X1="1942" Y1="1594" X2="1847" Y2="1594" X3="1847" Y3="1533" X4="1942" Y4="1533"/>
+    <FrameRect X1="578796" Y1="86137" X2="611806" Y2="86137" X3="611806" Y3="113785" X4="578796" Y4="113785"/>
+    <DefectRect X1="603727" Y1="92268" X2="605002" Y2="92268" X3="605002" Y3="93093" X4="603727" Y4="93093"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="1" Y="8"/>
+    <ActualResultMsg>Matching : 68.0% [Acceptance : 70.0%]
+X, Y, theta :
+24 um, 116 um, 0.00 degree</ActualResultMsg></Defect>
+  <Defect>
+    <Overkill>0</Overkill>
+    <DefectTypeString>ANCC</DefectTypeString>
+    <ModuleId>0</ModuleId>
+    <RefId>R17</RefId>
+    <FrameId>34</FrameId>
+    <WindowId>3</WindowId>
+    <PartNumber>R0R0BJ00224</PartNumber>
+    <WindowType>1</WindowType>
+    <DefectType>9</DefectType>
+    <ViewType>2</ViewType>
+    <Reviewed>0</Reviewed>
+    <ResultValue>f</ResultValue>
+    <ResultMsg>Insp Type   :  Mounting
+
+.  No      Score   ChipVerify
+[  1]   :  V       15.8%                    
+[  2]   :  V       48.4%                    
+== Retry ==
+[  1]   :  V       15.8%                    
+[  2]   :  V       48.4%                    
+----------------------------------
+Max score:  48.4%[Acceptance score :   70.0%]
+Offset(X, Y, Angle)    : -9, 8, 0.00
+Micro Unit : -131, 110, 0.00
+</ResultMsg>
+    <PartRect X1="1959" Y1="1609" X2="1808" Y2="1609" X3="1808" Y3="1520" X4="1959" Y4="1520"/>
+    <WindowRect X1="1935" Y1="1594" X2="1840" Y2="1594" X3="1840" Y3="1533" X4="1935" Y4="1533"/>
+    <FrameRect X1="578796" Y1="86137" X2="611806" Y2="86137" X3="611806" Y3="113785" X4="578796" Y4="113785"/>
+    <DefectRect X1="603634" Y1="92267" X2="604909" Y2="92267" X3="604909" Y3="93092" X4="603634" Y4="93092"/>
+    <AngleOffset>-9999.00</AngleOffset>
+    <Offset X="-9" Y="8"/>
+    <ActualResultMsg>Matching : 48.4% [Acceptance : 70.0%]
+X, Y, theta :
+-131 um, 110 um, 0.00 degree</ActualResultMsg></Defect></InspData>

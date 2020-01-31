@@ -1,0 +1,55 @@
+<InspData>
+  <ConfigInfo>
+    <Inspector>MV-7U</Inspector>
+    <DefectPath></DefectPath>
+    <IsSaveOverKill>TRUE</IsSaveOverKill>
+    <UserID>admin</UserID></ConfigInfo>
+  <BoardInfo>
+    <Model>59364-SURF1</Model>
+    <SerialNo>00000161</SerialNo>
+    <RepSerialNo>00000161</RepSerialNo>
+    <BoardSide>1</BoardSide>
+    <BoardCount>4</BoardCount>
+    <ModuleCount>1</ModuleCount>
+    <InspStartTime>20200117;111119</InspStartTime>
+    <IsGood>1</IsGood></BoardInfo>
+  <DefectInfo>
+    <InspStartTime>2020-01-17 11:11:19</InspStartTime>
+    <InspEndTime>2020-01-17 11:11:26</InspEndTime>
+    <OperatorEndTime>2020-01-17 11:11:26</OperatorEndTime>
+    <RepairEndTime>2020-01-17 11:11:26</RepairEndTime>
+    <InspResult>0</InspResult>
+    <BoardSide>1</BoardSide></DefectInfo>
+  <DefectCount>
+    <Mounting>0</Mounting>
+    <Solder>0</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>0</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ICSolder>0</ICSolder></DefectCount>
+  <InspCount>
+    <Part>74</Part>
+    <Frame>23</Frame>
+    <Window>148</Window>
+    <Mounting>74</Mounting>
+    <Solder>0</Solder>
+    <Bridge>0</Bridge>
+    <OCR>0</OCR>
+    <Binary>0</Binary>
+    <Color>74</Color>
+    <Height>0</Height>
+    <LiftedLead>0</LiftedLead>
+    <ChipChecker>0</ChipChecker>
+    <ResistorColorChecker>0</ResistorColorChecker>
+    <BridgeOffset>0</BridgeOffset>
+    <ICSolder>0</ICSolder>
+    <SkipInfo>0</SkipInfo></InspCount>
+  <ModuleResult>
+    <Module ModuleId="0" Result="1" IsSkiped="0">
+    </Module></ModuleResult></InspData>
